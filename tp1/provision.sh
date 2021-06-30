@@ -5,8 +5,8 @@ set -e
 set -u
 
 # Je récupere le hostname du serveur
-USER_EMAIL="lindajemni123@gmail.com"
-USER_NAME="ljemni"
+USER_EMAIL=""
+USER_NAME=""
 GIT_HOST=""
 GIT_REPOSITORY=""
 HOSTNAME="$(hostname)"
@@ -137,4 +137,3 @@ MARK
 
 
 echo "SUCCESS."
-
